@@ -23,7 +23,7 @@
 |**目前heroku只支持http1.1，请不要再问是否支持tcp等其他协议。**|
 
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com
-/haha/IX-RXVT.git)
+/Cptmacmillan2022007/IX-RXVT.git)
 
 # Xray/V2Ray VLESS
 |**属性**|**值**|
